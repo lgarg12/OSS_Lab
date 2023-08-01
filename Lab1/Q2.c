@@ -12,5 +12,7 @@ int main(void) {
     } else
       printf("\n Element not found:(");
   }
+  printf("\n Element not found:( Apply Binary search for optimization");
+  
   return 0;
 }
